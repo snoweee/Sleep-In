@@ -1,0 +1,7 @@
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\bin\Release\Sleep In.exe
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\bin\Release\Sleep In.pdb
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\obj\Release\Sleep_In.SleepForm.resources
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\obj\Release\Sleep_In.Properties.Resources.resources
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\obj\Release\Sleep In.csproj.GenerateResource.Cache
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\obj\Release\Sleep In.exe
+C:\Users\snow\documents\visual studio 2015\Projects\Sleep In\Sleep In\obj\Release\Sleep In.pdb
